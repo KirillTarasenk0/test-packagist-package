@@ -1,0 +1,17 @@
+{
+    "name": "kirilltarasenko/test-packagist-package",
+    "description": "My first  own package for packagist.org",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kirilltarasenko\\TestPackagistPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kirill Tarasenko",
+            "email": "ktarasenko003@gmail.com"
+        }
+    ],
+    "require": {}
+}
