@@ -1,5 +1,6 @@
 {
     "name": "kirilltarasenko/test-packagist-package",
+    "version": "1.0.0",
     "description": "My first  own package for packagist.org",
     "license": "MIT",
     "authors": [
